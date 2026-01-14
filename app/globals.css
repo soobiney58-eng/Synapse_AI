@@ -1,0 +1,153 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* 폰트 로딩 실패 시 폴백 */
+@font-face {
+  font-family: 'Pretendard';
+  src: local('Pretendard'), local('Apple SD Gothic Neo'), local('Malgun Gothic'), local('맑은 고딕');
+  font-display: swap;
+}
+
+@layer base {
+  /* 그레이스케일 컬러 토큰 - CSS 변수 */
+  :root {
+    /* TEXT */
+    --text-primary: #131518;
+    --text-secondary: #2B2F36;
+    --text-tertiary: #565E6C;
+    --text-disabled: #A5ACB7;
+
+    /* BACKGROUND */
+    --bg-surface: #FBFCFC;
+    --bg-secondary: #F1F2F4;
+    --bg-tertiary: #DFE1E5;
+    --bg-overlay: rgba(5, 5, 6, 0.6);
+
+    /* BORDER */
+    --border-strong: #C6CAD1;
+    --border-default: #DFE1E5;
+    --border-light: #F1F2F4;
+
+    /* ICON & DIVIDER */
+    --icon-default: #7E8798;
+    --icon-strong: #565E6C;
+    --divider: #F1F2F4;
+
+    /* SYSTEM */
+    --black: #000000;
+    --ink: #131518;
+    --dark: #2B2F36;
+  }
+
+  * {
+    @apply border-line;
+  }
+
+  body {
+    @apply font-body text-text bg-bg antialiased;
+  }
+
+  /* Dark mode base styles */
+  .dark body {
+    @apply bg-dark-bg text-dark-text;
+  }
+}
+
+@layer components {
+  /* Text Styles */
+  .t-display {
+    @apply text-display font-body;
+  }
+
+  .t-h1 {
+    @apply text-h1 font-body;
+  }
+
+  .t-h2 {
+    @apply text-h2 font-body;
+  }
+
+  .t-h3 {
+    @apply text-h3 font-body;
+  }
+
+  .t-body {
+    @apply text-body font-body;
+  }
+
+  .t-caption {
+    @apply text-caption font-body;
+  }
+
+  /* Focus ring */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-focus-ring ring-offset-2;
+  }
+
+  /* Reduced motion support */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  /* Section animations */
+  .section-enter {
+    @apply opacity-0 translate-y-3;
+  }
+
+  .section-enter-active {
+    @apply opacity-100 translate-y-0 transition-all duration-[240ms] ease-smooth;
+  }
+
+  /* Scroll animations */
+  .scroll-fade-in {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+
+  .scroll-fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Hero floating text cards animation */
+  @keyframes hero-float-soft {
+    0% {
+      transform: translateY(0);
+      opacity: 0.96;
+    }
+    50% {
+      transform: translateY(-4px);
+      opacity: 1;
+    }
+    100% {
+      transform: translateY(2px);
+      opacity: 0.96;
+    }
+  }
+
+  .hero-float-soft-1 {
+    animation: hero-float-soft 2.4s ease-in-out infinite alternate;
+  }
+
+  .hero-float-soft-2 {
+    animation: hero-float-soft 2.8s ease-in-out infinite alternate;
+  }
+
+  .hero-float-soft-3 {
+    animation: hero-float-soft 3.2s ease-in-out infinite alternate;
+  }
+}
+

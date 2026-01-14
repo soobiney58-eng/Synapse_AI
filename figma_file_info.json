@@ -1,0 +1,969 @@
+﻿{
+    "document":  {
+                     "id":  "0:0",
+                     "name":  "Document",
+                     "type":  "DOCUMENT",
+                     "scrollBehavior":  "SCROLLS",
+                     "children":  [
+                                      {
+                                          "id":  "329:96",
+                                          "name":  "마리아의원_모바일",
+                                          "type":  "CANVAS",
+                                          "scrollBehavior":  "SCROLLS",
+                                          "children":  "     ",
+                                          "backgroundColor":  "@{r=0.74134600162506104; g=0.74134600162506104; b=0.74134600162506104; a=1.0}",
+                                          "prototypeStartNodeID":  "378:1110",
+                                          "flowStartingPoints":  "",
+                                          "prototypeDevice":  "@{type=NONE; rotation=NONE}"
+                                      },
+                                      {
+                                          "id":  "0:1",
+                                          "name":  "시냅스 랜딩페이지",
+                                          "type":  "CANVAS",
+                                          "scrollBehavior":  "SCROLLS",
+                                          "children":  "                                                                                             ",
+                                          "backgroundColor":  "@{r=0.74134600162506104; g=0.74134600162506104; b=0.74134600162506104; a=1.0}",
+                                          "prototypeStartNodeID":  null,
+                                          "flowStartingPoints":  "",
+                                          "prototypeDevice":  "@{type=NONE; rotation=NONE}"
+                                      },
+                                      {
+                                          "id":  "227:118",
+                                          "name":  "창비출판사 메인페이지",
+                                          "type":  "CANVAS",
+                                          "scrollBehavior":  "SCROLLS",
+                                          "children":  "                                                    ",
+                                          "backgroundColor":  "@{r=0.74134600162506104; g=0.74134600162506104; b=0.74134600162506104; a=1.0}",
+                                          "prototypeStartNodeID":  null,
+                                          "flowStartingPoints":  "",
+                                          "prototypeDevice":  "@{type=NONE; rotation=NONE}"
+                                      },
+                                      {
+                                          "id":  "474:96",
+                                          "name":  "워크랩스튜디오",
+                                          "type":  "CANVAS",
+                                          "scrollBehavior":  "SCROLLS",
+                                          "children":  "                                                                                                               ",
+                                          "backgroundColor":  "@{r=0.74134600162506104; g=0.74134600162506104; b=0.74134600162506104; a=1.0}",
+                                          "prototypeStartNodeID":  null,
+                                          "flowStartingPoints":  "",
+                                          "prototypeDevice":  "@{type=NONE; rotation=NONE}"
+                                      }
+                                  ]
+                 },
+    "components":  {
+                       "378:643":  {
+                                       "key":  "2c690102cb98a1127b78086f7ed260116364cf2e",
+                                       "name":  "Dark-mode=false",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:642",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:384":  {
+                                       "key":  "9c4b0d6729bfe0c4a98f6e6e1c81b4874dd8cf88",
+                                       "name":  "Visible=NO",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:14",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:399":  {
+                                       "key":  "fcc4f64a2ac71d4524d77e46d6cf844ce24ddb15",
+                                       "name":  "Strength=3 Bars",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:389",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:436":  {
+                                       "key":  "891209c769b1c9153a464e37da7a464a589d7046",
+                                       "name":  "Property 1=3 Bars",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:435",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:465":  {
+                                       "key":  "d8b94ae5a98e7a03863751c2771f51d393951146",
+                                       "name":  "Status=Normal, Level=100",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:456",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:507":  {
+                                       "key":  "9aeba135f09ce9f5f91c92fa81bb2400e2f10dc7",
+                                       "name":  "Type=None",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:504",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:518":  {
+                                       "key":  "9705ba0cf23b893f50d85f64bc14d3418855b080",
+                                       "name":  "Color=Clear",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:511",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:667":  {
+                                       "key":  "bda998c75fdbca19a6945bbad2863e71272c90c3",
+                                       "name":  "Dark-mode=false",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:666",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:662":  {
+                                       "key":  "df345d8870aa79e71e773325f1cb30479d4bfcb4",
+                                       "name":  "Mode=Dark Content",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:661",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:686":  {
+                                       "key":  "164b9c7cc8a4ac4727a1c35871cf5a1ab9774ec8",
+                                       "name":  "state=on",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:681",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "378:682":  {
+                                       "key":  "807989a3e0257ed014eb6cbcfbccb10e9596875c",
+                                       "name":  "state=off",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "378:681",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "258:27":  {
+                                      "key":  "0dd56199e93e3ba41e8821f34f79ba166e430cb1",
+                                      "name":  "Web_footer",
+                                      "description":  "",
+                                      "remote":  true,
+                                      "documentationLinks":  [
+
+                                                             ]
+                                  },
+                       "295:1050":  {
+                                        "key":  "28452e26b3d5395104da18e36ecfa2c96bab29de",
+                                        "name":  "갯수=5",
+                                        "description":  "",
+                                        "remote":  false,
+                                        "componentSetId":  "295:1055",
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "295:1012":  {
+                                        "key":  "275f7437e562d9490397059a7c4ed7c859f3885a",
+                                        "name":  "Star",
+                                        "description":  "",
+                                        "remote":  false,
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "295:1054":  {
+                                        "key":  "c9a28c7155c3b4c664228504cefd0a7c3159613f",
+                                        "name":  "갯수=1",
+                                        "description":  "",
+                                        "remote":  false,
+                                        "componentSetId":  "295:1055",
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "295:1051":  {
+                                        "key":  "d741ab5aaedf4c19944947b7a0759f05050a0d8f",
+                                        "name":  "갯수=3",
+                                        "description":  "",
+                                        "remote":  false,
+                                        "componentSetId":  "295:1055",
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "295:1134":  {
+                                        "key":  "a632867c02243850f89f70cc5a5a5fae91996557",
+                                        "name":  "Icon/right",
+                                        "description":  "",
+                                        "remote":  true,
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "295:1132":  {
+                                        "key":  "f827da3ecc975918468a52fd8cf12e055b3877d0",
+                                        "name":  "Icon/left",
+                                        "description":  "",
+                                        "remote":  true,
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "295:1052":  {
+                                        "key":  "b2cf12449438bbecb45740addf2d1fb1c408c894",
+                                        "name":  "갯수=2",
+                                        "description":  "",
+                                        "remote":  false,
+                                        "componentSetId":  "295:1055",
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "295:1053":  {
+                                        "key":  "13b5be296107582e1f05e5d42a3197dec36a8c06",
+                                        "name":  "갯수=4",
+                                        "description":  "",
+                                        "remote":  false,
+                                        "componentSetId":  "295:1055",
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "508:645":  {
+                                       "key":  "2c690102cb98a1127b78086f7ed260116364cf2e",
+                                       "name":  "Dark-mode=false",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "508:644",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "508:387":  {
+                                       "key":  "9c4b0d6729bfe0c4a98f6e6e1c81b4874dd8cf88",
+                                       "name":  "Visible=NO",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "508:17",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "508:402":  {
+                                       "key":  "fcc4f64a2ac71d4524d77e46d6cf844ce24ddb15",
+                                       "name":  "Strength=3 Bars",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "508:392",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "508:439":  {
+                                       "key":  "891209c769b1c9153a464e37da7a464a589d7046",
+                                       "name":  "Property 1=3 Bars",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "508:438",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "508:468":  {
+                                       "key":  "d8b94ae5a98e7a03863751c2771f51d393951146",
+                                       "name":  "Status=Normal, Level=100",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "508:459",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "508:510":  {
+                                       "key":  "9aeba135f09ce9f5f91c92fa81bb2400e2f10dc7",
+                                       "name":  "Type=None",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "508:507",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "508:521":  {
+                                       "key":  "9705ba0cf23b893f50d85f64bc14d3418855b080",
+                                       "name":  "Color=Clear",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "508:514",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "508:12":  {
+                                      "key":  "bda998c75fdbca19a6945bbad2863e71272c90c3",
+                                      "name":  "Dark-mode=false",
+                                      "description":  "",
+                                      "remote":  true,
+                                      "componentSetId":  "508:11",
+                                      "documentationLinks":  [
+
+                                                             ]
+                                  },
+                       "508:6":  {
+                                     "key":  "df345d8870aa79e71e773325f1cb30479d4bfcb4",
+                                     "name":  "Mode=Dark Content",
+                                     "description":  "",
+                                     "remote":  true,
+                                     "componentSetId":  "508:5",
+                                     "documentationLinks":  [
+
+                                                            ]
+                                 },
+                       "555:512":  {
+                                       "key":  "a6a51d2c6d9e19ceb088648da1b3d218065356b1",
+                                       "name":  "Property 1=정상",
+                                       "description":  "",
+                                       "remote":  false,
+                                       "componentSetId":  "555:514",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "558:595":  {
+                                       "key":  "84c9b180537fbbb05319f406940157e735f4910f",
+                                       "name":  "Property 1=주의",
+                                       "description":  "",
+                                       "remote":  false,
+                                       "componentSetId":  "555:514",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "555:513":  {
+                                       "key":  "b609af005b58dc14327370a8d46f3d69a80e4ebc",
+                                       "name":  "Property 1=문제",
+                                       "description":  "",
+                                       "remote":  false,
+                                       "componentSetId":  "555:514",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "555:511":  {
+                                       "key":  "a2282dfae24c2831dd4d3ddb45bf571672980326",
+                                       "name":  "Property 1=관찰",
+                                       "description":  "",
+                                       "remote":  false,
+                                       "componentSetId":  "555:514",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   },
+                       "619:2056":  {
+                                        "key":  "c5153bbd6f921dfe3018e9da9dbfffa1c36e7699",
+                                        "name":  "left",
+                                        "description":  "",
+                                        "remote":  true,
+                                        "documentationLinks":  [
+
+                                                               ]
+                                    },
+                       "694:768":  {
+                                       "key":  "244b23dbc4c2bb4e606d0b1c3fc3d67d7620e400",
+                                       "name":  "Property 1=title 1 icon",
+                                       "description":  "",
+                                       "remote":  true,
+                                       "componentSetId":  "694:763",
+                                       "documentationLinks":  [
+
+                                                              ]
+                                   }
+                   },
+    "componentSets":  {
+                          "378:642":  {
+                                          "key":  "8f756c5fd65a12762ef8effa0ea61dbb5e6ee1b9",
+                                          "name":  "iPhone-status-bar(upper)",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "378:14":  {
+                                         "key":  "a50275c5c81b27c2130fa7c387879d0cbc1b2484",
+                                         "name":  "Notch",
+                                         "description":  "",
+                                         "remote":  true
+                                     },
+                          "378:389":  {
+                                          "key":  "2d5aa146ddd9e3646503a1485ee99d14d18ca606",
+                                          "name":  "Network Signal / Light",
+                                          "description":  "Network Signal Strength • Light",
+                                          "remote":  true
+                                      },
+                          "378:435":  {
+                                          "key":  "8699b8e9bc2e8009b0793f5c76603500295d7c00",
+                                          "name":  "WiFi Signal / Light",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "378:456":  {
+                                          "key":  "1bdf5317451df8f7709caf7bb52a33b7f70b54c5",
+                                          "name":  "Battery / Light",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "378:504":  {
+                                          "key":  "dc4aa05a84c38e66a47ca910b0033f2484ace305",
+                                          "name":  "Indicator",
+                                          "description":  "Recording Indicator",
+                                          "remote":  true
+                                      },
+                          "378:511":  {
+                                          "key":  "aa69d1ed117cdf79088f32fde426fe0459d25749",
+                                          "name":  "Time / Light",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "378:666":  {
+                                          "key":  "ce3078fd21f803b2685fc41994c24abea866c7a5",
+                                          "name":  "iPhone-status-bar(lower)",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "378:661":  {
+                                          "key":  "146db0dac24390dc18acfe8081cede2832bd48e5",
+                                          "name":  "Bar",
+                                          "description":  "Bar Appearance",
+                                          "remote":  true
+                                      },
+                          "378:681":  {
+                                          "key":  "0c1e87b49bb8dcd2496a8a5564d9a2caf676baab",
+                                          "name":  "Radio",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "295:1055":  {
+                                           "key":  "94efdbb7f986c8398ba5cf9888cdd7b85ff388fb",
+                                           "name":  "review_star",
+                                           "description":  "",
+                                           "documentationLinks":  [
+
+                                                                  ]
+                                       },
+                          "508:644":  {
+                                          "key":  "8f756c5fd65a12762ef8effa0ea61dbb5e6ee1b9",
+                                          "name":  "iPhone-status-bar(upper)",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "508:17":  {
+                                         "key":  "a50275c5c81b27c2130fa7c387879d0cbc1b2484",
+                                         "name":  "Notch",
+                                         "description":  "",
+                                         "remote":  true
+                                     },
+                          "508:392":  {
+                                          "key":  "2d5aa146ddd9e3646503a1485ee99d14d18ca606",
+                                          "name":  "Network Signal / Light",
+                                          "description":  "Network Signal Strength • Light",
+                                          "remote":  true
+                                      },
+                          "508:438":  {
+                                          "key":  "8699b8e9bc2e8009b0793f5c76603500295d7c00",
+                                          "name":  "WiFi Signal / Light",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "508:459":  {
+                                          "key":  "1bdf5317451df8f7709caf7bb52a33b7f70b54c5",
+                                          "name":  "Battery / Light",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "508:507":  {
+                                          "key":  "dc4aa05a84c38e66a47ca910b0033f2484ace305",
+                                          "name":  "Indicator",
+                                          "description":  "Recording Indicator",
+                                          "remote":  true
+                                      },
+                          "508:514":  {
+                                          "key":  "aa69d1ed117cdf79088f32fde426fe0459d25749",
+                                          "name":  "Time / Light",
+                                          "description":  "",
+                                          "remote":  true
+                                      },
+                          "508:11":  {
+                                         "key":  "ce3078fd21f803b2685fc41994c24abea866c7a5",
+                                         "name":  "iPhone-status-bar(lower)",
+                                         "description":  "",
+                                         "remote":  true
+                                     },
+                          "508:5":  {
+                                        "key":  "146db0dac24390dc18acfe8081cede2832bd48e5",
+                                        "name":  "Bar",
+                                        "description":  "Bar Appearance",
+                                        "remote":  true
+                                    },
+                          "555:514":  {
+                                          "key":  "cce977b1fcfa9a44491f4ccebe430c6d055f58a1",
+                                          "name":  "분석뱃지",
+                                          "description":  "",
+                                          "documentationLinks":  [
+
+                                                                 ]
+                                      },
+                          "694:763":  {
+                                          "key":  "58a79e45819377a9e8c2122bfb2349e531feac8c",
+                                          "name":  "상단 gnb",
+                                          "description":  "",
+                                          "remote":  true
+                                      }
+                      },
+    "schemaVersion":  0,
+    "styles":  {
+                   "378:13":  {
+                                  "key":  "b0c70f1c007d9bbfd2c86140f9f950e4fa1c18c8",
+                                  "name":  "System Bg Dark Base / Primary",
+                                  "styleType":  "FILL",
+                                  "remote":  true,
+                                  "description":  ""
+                              },
+                   "378:388":  {
+                                   "key":  "0414dde40ad47e5308f8194671c0dbd326707f9a",
+                                   "name":  "Label Light / Primary",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  ""
+                               },
+                   "378:454":  {
+                                   "key":  "94fadc70233454111e6c1ea8be9d57048ddc2e60",
+                                   "name":  "Label Dark / Primary",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  ""
+                               },
+                   "378:455":  {
+                                   "key":  "a06e42a7b4a7227476654b9fb8d882e36b141a39",
+                                   "name":  "Label Dark / Tertiary",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  ""
+                               },
+                   "378:452":  {
+                                   "key":  "d593322311a222043f14c9199ac283bbce739a41",
+                                   "name":  "Color Light / Green",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  ""
+                               },
+                   "378:453":  {
+                                   "key":  "2c7403aabb1e46e1649f0b2658f5c590521574c5",
+                                   "name":  "Color Dark / Yellow",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  ""
+                               },
+                   "378:503":  {
+                                   "key":  "58880db92c9691611401f7abf988399cfe7280f1",
+                                   "name":  "SystemGreen / Light",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "class var systemGreen: UIColor"
+                               },
+                   "378:659":  {
+                                   "key":  "617bc08026c5104676a599b55cefb702f97cd1d3",
+                                   "name":  "primary/primary-700",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:660":  {
+                                   "key":  "329960df745f50f0390e34e4a80c31313c020d31",
+                                   "name":  "gray/gray-500",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:671":  {
+                                   "key":  "3ba85b30cd5f1eb6e88648d0af9d35cdbbd02ea3",
+                                   "name":  "primary/primary-200",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:672":  {
+                                   "key":  "fa188dc99b23e2d554d92ea310b92487d8d77fb3",
+                                   "name":  "gray/gray-900",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:673":  {
+                                   "key":  "e79cf79b883ee2883954b56f81753d9ac6f1cc91",
+                                   "name":  "gray/gray-700",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:674":  {
+                                   "key":  "52e66c1804498a47e02e25910be63b45b8989210",
+                                   "name":  "gray/gray-400",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:675":  {
+                                   "key":  "cecec75f1efbb3b3762e11c3a792730f67a6c90e",
+                                   "name":  "gray/gray-600",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:677":  {
+                                   "key":  "2a86f7328a96c2bf19ea21e699fbf08039e97777",
+                                   "name":  "gray/gray-800",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:676":  {
+                                   "key":  "d26989fdac5cc7015bba45f80f1cdc625311a4ee",
+                                   "name":  "gray/gray-200",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "378:11":  {
+                                  "key":  "8a6f64a0cfe1bedb6b4bd6195eb7bcc9f2e7991a",
+                                  "name":  "gray/gray-100",
+                                  "styleType":  "FILL",
+                                  "remote":  true,
+                                  "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                              },
+                   "378:690":  {
+                                   "key":  "acabdb1f66b67aea7a697459899b6a3988680c38",
+                                   "name":  "gray/gray-300",
+                                   "styleType":  "FILL",
+                                   "remote":  true,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "14:42":  {
+                                 "key":  "0228193c5845d9f02372d9b429a6bcdde0bae1e5",
+                                 "name":  "button-pretendard 16 Medium",
+                                 "styleType":  "TEXT",
+                                 "remote":  false,
+                                 "description":  ""
+                             },
+                   "14:39":  {
+                                 "key":  "6b895929f77ab8ab445b16f010bbf8273993c97a",
+                                 "name":  "H4-pretendard 16 Medium",
+                                 "styleType":  "TEXT",
+                                 "remote":  false,
+                                 "description":  ""
+                             },
+                   "14:35":  {
+                                 "key":  "16b6ce5d621d12fdb7975cb1ac0cd98460778d08",
+                                 "name":  "H1-pretendard 36 bold",
+                                 "styleType":  "TEXT",
+                                 "remote":  false,
+                                 "description":  ""
+                             },
+                   "19:1178":  {
+                                   "key":  "625c66ef046bf1c31be7f578a00d833fbc790c98",
+                                   "name":  "H5-pretendard 14 Regular",
+                                   "styleType":  "TEXT",
+                                   "remote":  false,
+                                   "description":  ""
+                               },
+                   "43:1744":  {
+                                   "key":  "a29e9b9609132d718bae6e35081e00ada2375b20",
+                                   "name":  "primary(시냅스)/primary-200",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "14:36":  {
+                                 "key":  "4e4a2e5564de94c375a183a7e3a2319a55d09610",
+                                 "name":  "H2-pretendard 28 Medium",
+                                 "styleType":  "TEXT",
+                                 "remote":  false,
+                                 "description":  ""
+                             },
+                   "14:40":  {
+                                 "key":  "0bd543a367f5245af5311b8409db2b5923ebc306",
+                                 "name":  "Paragraphy-pretendard 16 regular",
+                                 "styleType":  "TEXT",
+                                 "remote":  false,
+                                 "description":  ""
+                             },
+                   "14:38":  {
+                                 "key":  "de4aa23d3c85f065e3ce747beb30fa1bc76f1457",
+                                 "name":  "H3-pretendard 22 Medium",
+                                 "styleType":  "TEXT",
+                                 "remote":  false,
+                                 "description":  ""
+                             },
+                   "43:1742":  {
+                                   "key":  "02cbca3c6937934406d6bac770dd7be8501ee35f",
+                                   "name":  "primary(시냅스)/primary-100",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "43:1746":  {
+                                   "key":  "c245e44bf120ac72a75363324b420af74d4de267",
+                                   "name":  "primary(시냅스)/primary-300",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "14:41":  {
+                                 "key":  "62554d28400fb80a4c6b6378baadd73b09347a7b",
+                                 "name":  "Label-pretendard 22 Medium",
+                                 "styleType":  "TEXT",
+                                 "remote":  false,
+                                 "description":  ""
+                             },
+                   "14:1273":  {
+                                   "key":  "ad6caa55d4fa5e55fe32358ec2c09fc9684393ce",
+                                   "name":  "small",
+                                   "styleType":  "EFFECT",
+                                   "remote":  false,
+                                   "description":  ""
+                               },
+                   "14:1274":  {
+                                   "key":  "ba3b67ac3db924bf8d6ca83f9e76fdc5f64489f2",
+                                   "name":  "Medium",
+                                   "styleType":  "EFFECT",
+                                   "remote":  false,
+                                   "description":  ""
+                               },
+                   "258:21":  {
+                                  "key":  "374f4cb0b5c11ad1c8e7222d930f57bc9100e833",
+                                  "name":  "(라이트) primary/primary-700 (주요컬러)",
+                                  "styleType":  "FILL",
+                                  "remote":  true,
+                                  "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                              },
+                   "258:22":  {
+                                  "key":  "91c7b081da3336df930df27d618d11307e40af41",
+                                  "name":  "gray/gray-100 (타이틀)",
+                                  "styleType":  "FILL",
+                                  "remote":  true,
+                                  "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                              },
+                   "258:23":  {
+                                  "key":  "96e8c6bd728511311b2b586a7e50475eb6f7ffbf",
+                                  "name":  "Body/medium_14",
+                                  "styleType":  "TEXT",
+                                  "remote":  true,
+                                  "description":  ""
+                              },
+                   "258:24":  {
+                                  "key":  "4b01ba0b29251ced22ba225af653ab86eeb38243",
+                                  "name":  "gray/gray-300 (보조텍스트1)",
+                                  "styleType":  "FILL",
+                                  "remote":  true,
+                                  "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                              },
+                   "258:25":  {
+                                  "key":  "e0014d1c7774da4eeabe98f34eab13a35f8e1c0c",
+                                  "name":  "Body/regular_12",
+                                  "styleType":  "TEXT",
+                                  "remote":  true,
+                                  "description":  ""
+                              },
+                   "258:26":  {
+                                  "key":  "4df080e88bc2fb31e877e0f46d5bb4eca1ce2c9d",
+                                  "name":  "gray/gray-700 (라인)",
+                                  "styleType":  "FILL",
+                                  "remote":  true,
+                                  "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                              },
+                   "258:20":  {
+                                  "key":  "42733a460e86a5973a03fc3404d1bccfce087231",
+                                  "name":  "gray/gray-900",
+                                  "styleType":  "FILL",
+                                  "remote":  true,
+                                  "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                              },
+                   "43:1740":  {
+                                   "key":  "28299bf5758da8ffc420a32d4070d31b147d3ff9",
+                                   "name":  "primary(시냅스)/primary-50",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "43:1748":  {
+                                   "key":  "7c4617893c24887580e6dc2b9370dbe526adcbc6",
+                                   "name":  "primary(시냅스)/primary-400",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "43:1750":  {
+                                   "key":  "7b0ac8ae578d8115c190f578c5ac297de5332c78",
+                                   "name":  "primary(시냅스)/primary-500",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "43:1752":  {
+                                   "key":  "6976689f8e1921477f3197b91dede6a532e1b483",
+                                   "name":  "primary(시냅스)/primary-600",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "43:1754":  {
+                                   "key":  "539e68732d28e0801fc0f9facfd95606980e3b91",
+                                   "name":  "primary(시냅스)/primary-700",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "43:1756":  {
+                                   "key":  "20aba166cbd7d62c9201140fdc7d943093c892f9",
+                                   "name":  "primary(시냅스)/primary-800",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "43:1758":  {
+                                   "key":  "92473dcd9e2dc73fb2be01a005c72fedb4ec3e80",
+                                   "name":  "primary(시냅스)/primary-900",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "43:1760":  {
+                                   "key":  "1896472058d9fb6593c1c38ca1d881ebdeb99429",
+                                   "name":  "primary(시냅스)/primary-950",
+                                   "styleType":  "FILL",
+                                   "remote":  false,
+                                   "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                               },
+                   "589:1140":  {
+                                    "key":  "433f692be4fbf7e6137b722bdf48d55e7a4941de",
+                                    "name":  "gray color/5",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1141":  {
+                                    "key":  "0b683c30b082c9896fad766876557f601534a8d1",
+                                    "name":  "gray color/10",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1142":  {
+                                    "key":  "1bce72a1cd07d7c9dd4d952d21da5c4ea67507ca",
+                                    "name":  "gray color/20",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1143":  {
+                                    "key":  "617ed620afb69737a1998fa2c4a55adb66907769",
+                                    "name":  "gray color/30",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1144":  {
+                                    "key":  "9ed8764a14a9162dbeec9996c76ddf51b36173ee",
+                                    "name":  "gray color/40",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1145":  {
+                                    "key":  "435d31475944b53d46a3320e3e2114dcbd083464",
+                                    "name":  "gray color/50",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1146":  {
+                                    "key":  "dc433d02735bc50199ef6ff24e9fc23e452ac966",
+                                    "name":  "gray color/60",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1147":  {
+                                    "key":  "a151a1339f3f17194c11cd295f66d030cac490c2",
+                                    "name":  "gray color/70",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1148":  {
+                                    "key":  "549316ebbc6c56b28c392dccf227f18e3ea59da1",
+                                    "name":  "gray color/80",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1149":  {
+                                    "key":  "d5b643599c2df78c65e2e3a007ce4945e232074f",
+                                    "name":  "gray color/90",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1150":  {
+                                    "key":  "5b81d5d8cc9abeca633e8117127cce129e220e67",
+                                    "name":  "gray color/95",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "589:1151":  {
+                                    "key":  "15059ae0b7d50bc34df50bcc9e87742d59eadeed",
+                                    "name":  "gray color/100",
+                                    "styleType":  "FILL",
+                                    "remote":  false,
+                                    "description":  ""
+                                },
+                   "619:2055":  {
+                                    "key":  "724e126c6535152b9e5db8545e614f81c79553c8",
+                                    "name":  "gray/gray-900",
+                                    "styleType":  "FILL",
+                                    "remote":  true,
+                                    "description":  "Color Scheme プラグインで作成されたスタイルです。"
+                                },
+                   "594:1164":  {
+                                    "key":  "c3ef73cd245c44ac49108ac8ff68c25e7640f5f4",
+                                    "name":  "body/medium",
+                                    "styleType":  "TEXT",
+                                    "remote":  true,
+                                    "description":  ""
+                                }
+               },
+    "name":  "Synapse design",
+    "lastModified":  "2025-12-10T06:10:25Z",
+    "thumbnailUrl":  "https://s3-alpha.figma.com/thumbnails/c754be51-6f37-42b1-b022-f1dd5c036015?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAQ4GOSFWCREKL5A5X%2F20251207%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20251207T120000Z\u0026X-Amz-Expires=604800\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=e6031938cb6d06ea4533c27e734ddf0888f5a09acdaa0fba3cea4f3c7a348a63",
+    "version":  "2295794337306280648",
+    "role":  "owner",
+    "editorType":  "figma",
+    "linkAccess":  "inherit"
+}
