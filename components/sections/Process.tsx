@@ -78,15 +78,16 @@ export default function Process() {
         {/* 4열 Flex 레이아웃 - 육각형 카드 (1200px Full Width) */}
         <div className="max-w-[1200px] mx-auto w-full flex flex-col md:flex-row overflow-visible gap-4 md:gap-0 px-4 sm:px-6">
           {steps.map((step, index) => (
-            <ScrollAnimation 
-              key={index} 
+            <div
+              key={index}
               className={`flex-1 relative ${index > 0 ? 'md:-ml-[1.5px]' : ''}`}
               style={{
                 zIndex: steps.length - index,
               }}
             >
-              {/* Hexagon Card Container */}
-              <div className="flex justify-center items-center w-full h-full">
+              <ScrollAnimation>
+                {/* Hexagon Card Container */}
+                <div className="flex justify-center items-center w-full h-full">
                 <div 
                   className="relative w-full"
                   style={{
@@ -225,7 +226,8 @@ export default function Process() {
                   </div>
                 </div>
               </div>
-            </ScrollAnimation>
+              </ScrollAnimation>
+            </div>
           ))}
         </div>
       </div>
